@@ -1,0 +1,13 @@
+ait\repository\ApplicationRespository.class
+ait\model\HiringManager.class
+ait\repository\CandidateRepository.class
+ait\controller\CandidateController.class
+ait\repository\JobRepository.class
+ait\model\Candidate.class
+ait\repository\HiringManagerRepository.class
+ait\services\ApplicationService.class
+ait\repository\VendorRepository.class
+ait\FileStorageException.class
+ait\model\Job.class
+ait\model\Vendor.class
+ait\model\JobApplication.class
